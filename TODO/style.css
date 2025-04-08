@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  #taskList li {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 0;
+  }
+  
+  button {
+    margin-left: 10px;
+  }
+  
+
